@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@{
+    var hello = "Xin chào";
+}
+
+<h3>Gía trị của biểu thức hello là: @hello</h3>
+
+@{
+    var input = "Nguyễn Văn A";
+    var output = hello + " " + input;
+    <h3>@output</h3>
+}
+
+<ul>
+    <li>@ViewBag.Ngay</li>
+    <li>@ViewBag.Thang</li>
+    <li>@ViewData["Nam"]</li>
+    <li>@ViewBag.HoTen</li>
+</ul>

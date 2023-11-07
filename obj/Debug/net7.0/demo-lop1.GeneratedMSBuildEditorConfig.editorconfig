@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = demo_lop1
+build_property.RootNamespace = demo_lop1
+build_property.ProjectDir = C:\Users\NGHIA\source\repos\demo-lop1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\NGHIA\source\repos\demo-lop1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TaiKhoan/DangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFpS2hvYW5cRGFuZ0t5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TheLoai1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haTFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TheLoai1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haTFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TheLoai1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haTFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TheLoai1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haTFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TheLoai1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haTFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TheLoai/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TheLoai/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TheLoai/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxJbmRleDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/TheLoai/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/Tuan03/BaiTap1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVHVhbjAzXEJhaVRhcDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/Tuan03/BaiTap2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVHVhbjAzXEJhaVRhcDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/Tuan03/DangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVHVhbjAzXERhbmdLeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Customer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Customer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Customer/Views/Home/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Customer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Customer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Tuan01/GioiThieu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAxXEdpb2lUaGlldS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Tuan01/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Tuan01/MayTinh1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAxXE1heVRpbmgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Tuan02/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAyXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Tuan02/AboutOk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAyXEFib3V0T2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Tuan02/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Tuan02/MayTinh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAyXE1heVRpbmguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Tuan02/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVhbjAyXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGHIA/source/repos/demo-lop1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yv4am9fcn9

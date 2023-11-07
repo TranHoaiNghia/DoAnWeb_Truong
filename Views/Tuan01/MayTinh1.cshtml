@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "MayTinh1";
+}
+
+@{
+    var ketQua = ViewBag.Result;
+    var error = ViewBag.Error;
+}
+
+<h1>Kết quả: @ketQua</h1>
+
+@if (!string.IsNullOrEmpty(error))
+{
+    <p class="error-message">@error</p>
+}

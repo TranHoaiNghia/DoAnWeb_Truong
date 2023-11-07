@@ -1,0 +1,26 @@
+﻿
+<h1>Bài tập 2</h1>
+
+@model TaiKhoan2ViewModel
+
+<div class="container">
+	<h3 class="mt-4">Đăng ký tài khoản</h3>
+	<form method="post">
+		<label class="mt-3 text-blue">Nhập tên tài khoản đăng ký!</label>
+		<input asp-for="TenTaiKhoan" type="text" class="form-control mt-2"/>
+
+		<label class="mt-3 text-blue">Nhập mật khẩu!</label>
+		<input asp-for="MatKhau" type="password" class="form-control mt-2" />
+
+		<label class="mt-3 text-blue">Xác nhận mật khẩu mới!</label>
+		<input asp-for="MatKhau" type="password" class="form-control mt-2" />
+
+		<label class="mt-3 text-blue">Nhập họ và tên!</label>
+		<input asp-for="HoTen" type="text" class="form-control mt-2" />
+
+		<label class="mt-3 text-blue">Nhập tuổi của bạn!</label>
+		<input asp-for="Tuoi" type="text" class="form-control mt-2" />
+
+		<button type="submit" class="btn btn-primary mt-3">Đăng ký người dùng!</button>
+	</form>
+</div>

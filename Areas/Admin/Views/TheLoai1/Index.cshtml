@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Nhập dữ liệu vào table SQL để hiển thị trên website</h3>
+
+@model TheLoai1
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>STT</th>
+                <th>Tên Thể Loại</th>
+                <th>Ngày tạo</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in ViewBag.TheLoai)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Name</td>
+                    <td>@item.TimeCreated</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                    </td>
+                </tr>     
+            }
+        </tbody>
+    </table>
+</div>

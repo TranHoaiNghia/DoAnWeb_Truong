@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Show";
+}
+
+@model TheLoai
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>STT</th>
+                <th>Thể loại</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in ViewBag.content)
+            {
+                 <tr>
+                    <td>1</td>
+                    <td>@item.</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>@ViewBag.Content</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>@ViewBag.Content</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

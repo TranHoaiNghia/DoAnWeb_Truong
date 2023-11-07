@@ -1,0 +1,14 @@
+﻿@model TaiKhoan1ViewModel
+
+<div class="container">
+	<h1 class="text-danger">Đăng ký tài khoản</h1>
+	<form method="post">
+		<label asp-for="Username" class="mt-3">Username</label>
+		<input asp-for="Username" type="text" class="form-control mt-2" />
+
+		<label asp-for="Password" class="mt-3">Password</label>
+		<input asp-for="Password" type="password" class="form-control mt-2" />
+
+		<button type="submit" class="btn btn-primary mt-3">Đăng ký</button>
+	</form>
+</div>

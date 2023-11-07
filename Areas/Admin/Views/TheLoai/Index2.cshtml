@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Index2";
+}
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên thể loại</th>
+                <th>Ngày tạo</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var theloai in ViewBag.TheLoai)
+            {
+                <tr>
+                    <td> @theloai.Name</td>
+                    <td> @theloai.DateCreated</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

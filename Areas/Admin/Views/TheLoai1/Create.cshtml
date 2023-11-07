@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+}
+
+@model TheLoai1
+
+<h3>Nhập dữ liệu vào website để hiển thị qua SQL </h3>
+
+<div class="container">
+    <form method="post">
+        <div class="form-group">
+            <label class="mt-3">Tên thể loại</label>
+            <input asp-for="Name" type="text" class="form-control mt-2" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label class="mt-3">Ngày tạo</label>
+            <input asp-for="TimeCreated" type="text" class="form-control mt-2" />
+            <span asp-validation-for="TimeCreated" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Tạo mới</button>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial"></partial>
+    }
+}
